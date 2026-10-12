@@ -1,6 +1,4 @@
-[![Screenshot-20260528-172644-Bazaart.jpg](https://i.postimg.cc/FsFhjMXz/Screenshot-20260528-172644-Bazaart.jpg)](https://postimg.cc/s18Fz0XC)
-
-[![homescreen.png](https://i.postimg.cc/BZgFgfkK/homescreen.png)](https://postimg.cc/Jtstrv1r)
+<img width="384" height="370" alt="Screenshot 2026-09-17 at 12 44 02 AM" src="https://github.com/user-attachments/assets/abea2fde-56e6-415d-acbc-0ac068a6d9ad" />
 
 # PWN//NET-Toolkit
 
@@ -14,7 +12,7 @@ Whether you're a **beginner** learning the ropes of **ethical hacking** or a **s
 
 ## ✨ Core Features
 
-### 🧰 **Tools Grid** - **47 ready-to-use tools including**:
+### 🧰 Tools Grid** - **47 ready-to-use tools including:
 
 - Web Crawler
 - Hash Cracker
@@ -33,12 +31,16 @@ Whether you're a **beginner** learning the ropes of **ethical hacking** or a **s
 - Payload Studio
 - And many more...
 
-### **🐞 Ethical Bug Hunting**
+---
+
+### 🐞 Ethical Bug Hunting
 
 **Purpose-built for security researchers, beginners**, and **seasoned professionals** to **identify real attack vectors** like **exposed API keys, subdomains**, and **loose CORS policies**.
 
 - **Live Terminal** — **Real-time command output** so you can **see exactly what’s happening under the hood**.
 - **Logs System** — **Automatically saves your activity and results** for **later review**.
+
+---
 
 ### **📚 Learning Resources**
 
@@ -53,13 +55,7 @@ Whether you're a **beginner** learning the ropes of **ethical hacking** or a **s
 
 ---
 
-## 📸 **Screenshots**
-
-<a href='https://postimg.cc/WDc6v9CG' target='_blank'><img src='https://i.postimg.cc/WDc6v9CG/PWNNET-ICON5.jpg' border='0' alt='PWNNET-ICON5'></a>  <a href="https://postimg.cc/zyvSL93G" target="_blank"><img src="https://i.postimg.cc/zyvSL93G/Screenshot-2026-06-21-at-5-34-23-AM.png" alt="Screenshot-2026-06-21-at-5-34-23-AM"></a> <a href="https://postimg.cc/CR5HZWdM" target="_blank"><img src="https://i.postimg.cc/CR5HZWdM/Screenshot-2026-06-21-at-5-35-11-AM.png" alt="Screenshot-2026-06-21-at-5-35-11-AM"></a> <a href="https://postimg.cc/xX8ykWq0" target="_blank"><img src="https://i.postimg.cc/xX8ykWq0/Screenshot-2026-06-21-at-5-35-54-AM.png" alt="Screenshot-2026-06-21-at-5-35-54-AM"></a> <a href="https://postimg.cc/qNqXt9g4" target="_blank"><img src="https://i.postimg.cc/qNqXt9g4/Screenshot-2026-06-21-at-5-36-11-AM.png" alt="Screenshot-2026-06-21-at-5-36-11-AM"></a>
-
----
-
-## 📱 **Mobile App (Android)**
+<img width="564" height="253" alt="Screenshot 2026-06-21 at 5 45 06 AM" src="https://github.com/user-attachments/assets/a9c08d63-080f-4ca7-b5a1-e3420f79caa6" />
 
 1. **Download** the **latest** `.apk` from the [Releases](https://github.com/K4N3CO/PWNNET-Toolkit/releases) page.
 2. **Enable "Install from Unknown Sources"** in your Android **security** settings.
@@ -164,7 +160,7 @@ This tool is for **educational and authorized security testing purposes ONLY!**.
 
 ## 🪪 **License**
 
-This project is **licensed** to **K4N3CO** under the [MIT License](LICENSE).
+This project is **licensed** to **KAN3C0** under the [MIT License](LICENSE).
 
 ---
 
